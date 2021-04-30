@@ -1,7 +1,5 @@
 # contract
-Fibonacci token open source contract information
-
-Fibonacci Token 
+Fibonacci Token Open Source Contract Information
 
 https://www.fibonaccitoken.com
 
